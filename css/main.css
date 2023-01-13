@@ -1,0 +1,31 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 11 Jan 2023, 2:51:16 pm
+    Author     : Ryan
+*/
+
+h2 {
+    text-decoration: underline;
+}
+
+article img {
+    border-style: double;
+    border-color: gray;   
+}
+
+figcaption  {
+    color: gray;
+    font-style: italic;
+    text-align: center;
+}
+
+footer  {
+    text-align: center;
+    font-style: italic;
+    font-size: 12px;
+    border-top-style: solid;
+    border-top-color: gray;
+}
